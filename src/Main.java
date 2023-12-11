@@ -35,5 +35,15 @@ public class Main {
 
         Persoana persoana3=new Persoana("Razvan",28,"M");
         System.out.println(persoana3.nume+" "+persoana3.varsta+" "+persoana3.sex);
+
+        Animal animal1=new Animal("leu","alb",false);
+        Animal animal2=new Animal("porc","roz",true);
+        animal1.mananca();
+        animal1.doarme();
+        System.out.println(animal1.afiseaza());
+        animal2.mananca();
+        animal2.doarme();
+        System.out.println(animal2.afiseaza());
+
     }
 }
