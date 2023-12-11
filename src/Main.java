@@ -25,6 +25,9 @@ public class Main {
         masina4.anFabricatie=2020;
         System.out.println(masina3.getAnFabricatie());
         System.out.println(masina4.getAnFabricatie());
+        Masina masina5 =new Masina("Tesla",2022);
+        System.out.println(masina5.marca);
+        System.out.println(masina5.getAnFabricatie());
 
         Persoana persoana1=new Persoana();
         System.out.println(persoana1.nume);
@@ -44,6 +47,30 @@ public class Main {
         animal2.mananca();
         animal2.doarme();
         System.out.println(animal2.afiseaza());
+
+
+        Elev elev1=new Elev("Popescu");
+        Elev elev2=new Elev("Ionel");
+
+        System.out.println(elev1.nume);
+        System.out.println(elev2.nume);
+        elev1.diriginte="Isoscel2";
+        System.out.println(elev2.diriginte);
+        elev1.metodaNonStatica();
+        Elev.metodaStatica();
+
+        Film film1=new Film();
+        film1.setTitlu("Titanic");
+        System.out.println(film1.getTitlu());
+
+        Inotator inotator1=new Inotator();
+        inotator1.seAntreneaza();
+        inotator1.seOdihneste();
+
+        Maratonist maratonist1=new Maratonist();
+        maratonist1.seAntreneaza();
+        maratonist1.seOdihneste();
+
 
     }
 }
