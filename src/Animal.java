@@ -1,5 +1,5 @@
 public class Animal {
-    static String nume;
+    String nume;
     String culoare;
     Boolean vegetarian;
 

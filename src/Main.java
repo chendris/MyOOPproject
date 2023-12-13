@@ -63,11 +63,11 @@ public class Main {
         film1.setTitlu("Titanic");
         System.out.println(film1.getTitlu());
 
-        Inotator inotator1=new Inotator();
+        Inotator inotator1=new Inotator("Romania","100mBras");
         inotator1.seAntreneaza();
         inotator1.seOdihneste();
 
-        Maratonist maratonist1=new Maratonist();
+        Maratonist maratonist1=new Maratonist("RRRusia","Ultra Maraton");
         maratonist1.seAntreneaza();
         maratonist1.seOdihneste();
 
@@ -75,6 +75,8 @@ public class Main {
         Caine caine1=new Caine();
         pisica1.scoateSunete();
         caine1.scoateSunete();
+
+        Mamifer mamifer1=new Pisica();
 
 
 
