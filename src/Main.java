@@ -71,6 +71,12 @@ public class Main {
         maratonist1.seAntreneaza();
         maratonist1.seOdihneste();
 
+        Pisica pisica1=new Pisica();
+        Caine caine1=new Caine();
+        pisica1.scoateSunete();
+        caine1.scoateSunete();
+
+
 
     }
 }
