@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30eaf087-4b19-4288-a254-9a965e813e46" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abilitate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasaC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfataA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfataB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Caine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Caine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inotator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inotator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mamifer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mamifer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Maratonist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Maratonist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pisica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sportiv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sportiv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyHashMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,21 +34,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "C:/Users/andre/IdeaProjects/MyOOPproject/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/andre/IdeaProjects/MyOOPproject/src/Main.java&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "module"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -111,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702481492479</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=".">
+      <option name="closed" value="true" />
+      <created>1702493045267</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702493045267</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

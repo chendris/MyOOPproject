@@ -1,4 +1,5 @@
 import java.util.HashMap;
+import java.util.Map;
 
 public class MyHashMap {
     public static void main(String[] args) {
@@ -17,5 +18,22 @@ public class MyHashMap {
         dictionarulNostru.remove(3);
         System.out.println(dictionarulNostru.values());
         System.out.println(dictionarulNostru.replace(3,"Third","Third-Replace"));
+
+        //Ex2 tema
+        HashMap<String,Boolean> studenti =new HashMap<>();
+        studenti.put("Andrei",true);
+        studenti.put("Razvan",true);
+        studenti.put("Laura",false);
+        studenti.put("Mirela",false);
+        studenti.put("Diana",true);
+        for (Map.Entry<String, Boolean> student:
+                studenti.entrySet()) {
+            if (student.getValue())
+                System.out.println(student.getKey());
+
+        }
+
+
+
     }
 }
